@@ -16,8 +16,8 @@
         android:textColor="#880D24"
         android:background="#FFF192"
 
-        android:paddingTop="1.92in"
-        android:paddingBottom="1.4in"
+        android:paddingTop="270dp"
+        android:paddingBottom="260dp"
         android:paddingRight="25dp"
         android:paddingLeft="25dp"
         app:layout_constraintBottom_toBottomOf="parent"
